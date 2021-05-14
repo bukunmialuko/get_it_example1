@@ -14,7 +14,7 @@ A simple example of using get_it lib
 
 
 ## 📸 ScreenShots
-| First Header  | Second Header |
+| No Meme Loaded  | Random Meme Loaded |
 | ------------- | ------------- |
 | <img src="art/meme_data_not_loaded.jpg" width="300"/> | <img src="art/meme_data_loaded.jpg" width="300"/> |
 
