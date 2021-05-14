@@ -16,8 +16,7 @@ A simple example of using get_it lib
 ## 📸 ScreenShots
 | First Header  | Second Header |
 | ------------- | ------------- |
-| <img src="screenshots/unsplash1.png" width="300"/> | <img src="art/meme_data_loaded.jpg" width="300"/> |
-| <img src="screenshots/mina1.png" width="300"/> | <img src="art/meme_data_loaded.jpg" width="300"/> |
+| <img src="art/meme_data_not_loaded.jpg" width="300"/> | <img src="art/meme_data_loaded.jpg" width="300"/> |
 
 
 ## 🤓 Author(s)
